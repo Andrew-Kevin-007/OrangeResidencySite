@@ -6,7 +6,7 @@ import { ArrowRight, Star, Sparkles, Shield, Quote, ChevronDown } from "lucide-r
 import { useEffect, useRef, useState } from "react";
 import heroImage from "@/assets/hero.png";
 import roomDeluxe from "@/assets/deulex.png";
-import roomExecutive from "@/assets/MAN07824.JPG";
+import roomExecutive from "@/assets/MAN07824.jpg";
 import restaurant from "@/assets/MAN07836.JPG";
 import spa from "@/assets/MAN07851.JPG";
 
